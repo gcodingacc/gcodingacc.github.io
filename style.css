@@ -45,6 +45,7 @@ section {
 #hero .profile-img {
     width: 300px;
     border-radius: 50%;
+    rotate(90deg)
 }
 
 footer {
